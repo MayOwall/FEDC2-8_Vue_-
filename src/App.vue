@@ -1,5 +1,5 @@
 <template lang="">
-  <!-- <SplashScreen /> -->
+  <SplashScreen />
   <!--splashScreen이 로딩 늦게되는 문제 있음..백그라운드 div를 하나 더 만들어 줘야 할 듯-->
   <Nav />
   <main>
